@@ -287,7 +287,7 @@
 // console.log(letterCount('Eat sleep code repeat', 'e'));
 
 
-// Q13. ----> The Geometrizer
+// Q14. ----> The Geometrizer
 // Create 2 functions that calculate properties of a circle, using the definitions here.
 
 // Create a function called calcCircumference:
